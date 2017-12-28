@@ -6,7 +6,7 @@ import {
   View
 } from 'react-native';
 
-//import SimpleButton from './app/components/SimpleButton';
+import SimpleButton from './app/components/SimpleButton';
 
 const instructions = Platform.select({
   ios: 'Press Cmd+R to reload,\n' +
